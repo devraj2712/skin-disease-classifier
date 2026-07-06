@@ -2,12 +2,6 @@
 
 This project builds and evaluates a multi-class skin disease image classifier 
 
-Project root:
-
-```text
-/backup/Intern/combine_skindiseaseclassifier_devraj
-```
-
 The final dataset contains **36,528 images** across **14 disease classes**. The project includes dataset cleaning, duplicate/leakage control, stratified grouped splitting, imbalance handling, model training, test evaluation, checkpoint verification, model comparison, Grad-CAM, and ViT attention visualization.
 
 ## Current Best Model
