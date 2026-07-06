@@ -580,3 +580,8 @@ python scripts/update_project_structure.py
 - Add calibration and confidence thresholding.
 - Add dermatologist/mentor review of Grad-CAM and ViT attention outputs.
 - Package the best model into an inference API or simple demo app.
+
+Copyright (c) 2026 Devraj Ghumare. All rights reserved.
+
+This project is shared publicly for portfolio and educational review purposes only.
+Reuse, redistribution, or commercial use is not permitted without permission.
