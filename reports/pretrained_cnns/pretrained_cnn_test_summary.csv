@@ -1,0 +1,2 @@
+model,run_name,best_epoch,best_checkpoint,accuracy,precision_macro,recall_macro,f1_macro,f1_weighted,loss
+convnext_tiny,convnext_tiny_fixed_12ep_20260701_070637,12,/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/pretrained_cnns/convnext_tiny/convnext_tiny_fixed_12ep_20260701_070637/best_model.pth,0.8584216295213738,0.8306795412612351,0.8326050572084072,0.8309382207764523,0.8582943480211983,0.5164879600817401

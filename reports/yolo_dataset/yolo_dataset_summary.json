@@ -1,0 +1,15 @@
+{
+  "source_splits": "/backup/Intern/combine_skindiseaseclassifier_devraj/data/splits",
+  "output_root": "/backup/Intern/combine_skindiseaseclassifier_devraj/data/yolo_cls_balanced",
+  "reports_root": "/backup/Intern/combine_skindiseaseclassifier_devraj/reports/yolo_dataset",
+  "target_train_count_per_class": 1727,
+  "seed": 42,
+  "train_balancing": "symlink oversampling/downsampling to fixed target per class",
+  "validation_balancing": false,
+  "test_balancing": false,
+  "totals": {
+    "train": 24178,
+    "val": 5478,
+    "test": 5474
+  }
+}

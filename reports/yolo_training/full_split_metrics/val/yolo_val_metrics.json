@@ -1,0 +1,30 @@
+{
+  "model": "yolov8n-cls",
+  "model_path": "/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/yolo/yolov8n_cls_fixed_12ep_20260701_121336/weights/best.pt",
+  "split": "val",
+  "split_dir": "/backup/Intern/combine_skindiseaseclassifier_devraj/data/yolo_cls_balanced/val",
+  "images": 5478,
+  "accuracy": 0.803030303030303,
+  "precision_macro": 0.7730943062605693,
+  "recall_macro": 0.7842900932774902,
+  "f1_macro": 0.7763443624193637,
+  "f1_weighted": 0.806707897103508,
+  "top5_accuracy": 0.9733479372033589,
+  "device": "0",
+  "class_names": [
+    "acne_vulgaris",
+    "atopic_dermatitis",
+    "basal_cell_carcinoma",
+    "contact_dermatitis",
+    "drug_eruptions",
+    "folliculitis",
+    "fungal_nail_infections",
+    "lupus_related_skin_lesions",
+    "melanoma",
+    "plaque_psoriasis",
+    "seborrheic_dermatitis",
+    "tinea_corporis",
+    "vitiligo",
+    "warts"
+  ]
+}

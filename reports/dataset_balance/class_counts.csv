@@ -1,0 +1,15 @@
+class_name,test,train,val,total
+melanoma,1364,6367,1364,9095
+basal_cell_carcinoma,910,4247,910,6067
+plaque_psoriasis,502,2342,502,3346
+acne_vulgaris,370,1727,370,2467
+warts,300,1404,300,2004
+atopic_dermatitis,294,1376,295,1965
+tinea_corporis,289,1353,290,1932
+vitiligo,251,1175,251,1677
+drug_eruptions,238,1115,239,1592
+contact_dermatitis,227,1062,227,1516
+lupus_related_skin_lesions,193,900,193,1286
+fungal_nail_infections,180,844,180,1204
+seborrheic_dermatitis,180,839,180,1199
+folliculitis,176,825,177,1178

@@ -1,0 +1,46 @@
+[
+  {
+    "model": "ConvNeXt-Tiny",
+    "images_tested": 28,
+    "accuracy": 0.8571428571428571,
+    "precision_macro": 0.8928571428571427,
+    "recall_macro": 0.8571428571428571,
+    "f1_macro": 0.85,
+    "mean_confidence": 0.848211329962526,
+    "checkpoint_path": "/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/pretrained_cnns/convnext_tiny/convnext_tiny_fixed_12ep_20260701_070637/best_model.pth",
+    "checkpoint_status": "completed"
+  },
+  {
+    "model": "YOLOv8n-cls",
+    "images_tested": 28,
+    "accuracy": 0.7857142857142857,
+    "precision_macro": 0.8452380952380951,
+    "recall_macro": 0.7857142857142857,
+    "f1_macro": 0.7928571428571428,
+    "mean_confidence": 0.7428171996559415,
+    "checkpoint_path": "/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/yolo/yolov8n_cls_fixed_12ep_20260701_121336/weights/best.pt",
+    "checkpoint_status": "completed"
+  },
+  {
+    "model": "EfficientNet-B0",
+    "images_tested": 28,
+    "accuracy": 0.7142857142857143,
+    "precision_macro": 0.669047619047619,
+    "recall_macro": 0.7142857142857143,
+    "f1_macro": 0.6846938775510205,
+    "mean_confidence": 0.8479432793600219,
+    "checkpoint_path": "/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/pretrained_cnns/efficientnet_b0/efficientnet_b0_fixed_12ep_20260630_091338/best_model.pth",
+    "checkpoint_status": "completed"
+  },
+  {
+    "model": "PSA + ECA ResNet",
+    "images_tested": 28,
+    "accuracy": 0.4642857142857143,
+    "precision_macro": 0.5,
+    "recall_macro": 0.4642857142857143,
+    "f1_macro": 0.4630952380952381,
+    "mean_confidence": 0.6652606486209801,
+    "checkpoint_path": "/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/psa_eca_resnet/psa_eca_resnet_fixed_12ep_20260630_042833/best_model.pth",
+    "checkpoint_status": "completed"
+  }
+]

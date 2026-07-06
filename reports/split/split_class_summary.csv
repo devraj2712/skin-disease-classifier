@@ -1,0 +1,15 @@
+class_name,total,train_count,train_pct,val_count,val_pct,test_count,test_pct
+acne_vulgaris,2467,1727,70.00,370,15.00,370,15.00
+atopic_dermatitis,1965,1376,70.03,295,15.01,294,14.96
+basal_cell_carcinoma,6067,4247,70.00,910,15.00,910,15.00
+contact_dermatitis,1516,1062,70.05,227,14.97,227,14.97
+drug_eruptions,1592,1115,70.04,239,15.01,238,14.95
+folliculitis,1178,825,70.03,177,15.03,176,14.94
+fungal_nail_infections,1204,844,70.10,180,14.95,180,14.95
+lupus_related_skin_lesions,1286,900,69.98,193,15.01,193,15.01
+melanoma,9095,6367,70.01,1364,15.00,1364,15.00
+plaque_psoriasis,3346,2342,69.99,502,15.00,502,15.00
+seborrheic_dermatitis,1199,839,69.97,180,15.01,180,15.01
+tinea_corporis,1932,1353,70.03,290,15.01,289,14.96
+vitiligo,1677,1175,70.07,251,14.97,251,14.97
+warts,2004,1404,70.06,300,14.97,300,14.97

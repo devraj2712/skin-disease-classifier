@@ -1,0 +1,15 @@
+class_idx,class_name,train_count
+0,acne_vulgaris,1727
+1,atopic_dermatitis,1376
+2,basal_cell_carcinoma,4247
+3,contact_dermatitis,1062
+4,drug_eruptions,1115
+5,folliculitis,825
+6,fungal_nail_infections,844
+7,lupus_related_skin_lesions,900
+8,melanoma,6367
+9,plaque_psoriasis,2342
+10,seborrheic_dermatitis,839
+11,tinea_corporis,1353
+12,vitiligo,1175
+13,warts,1404

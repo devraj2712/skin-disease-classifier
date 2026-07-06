@@ -1,0 +1,5 @@
+model,images_tested,accuracy,precision_macro,recall_macro,f1_macro,mean_confidence,checkpoint_path,checkpoint_status
+ConvNeXt-Tiny,28,0.8571428571428571,0.8928571428571427,0.8571428571428571,0.85,0.848211329962526,/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/pretrained_cnns/convnext_tiny/convnext_tiny_fixed_12ep_20260701_070637/best_model.pth,completed
+YOLOv8n-cls,28,0.7857142857142857,0.8452380952380951,0.7857142857142857,0.7928571428571428,0.7428171996559415,/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/yolo/yolov8n_cls_fixed_12ep_20260701_121336/weights/best.pt,completed
+EfficientNet-B0,28,0.7142857142857143,0.669047619047619,0.7142857142857143,0.6846938775510205,0.8479432793600219,/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/pretrained_cnns/efficientnet_b0/efficientnet_b0_fixed_12ep_20260630_091338/best_model.pth,completed
+PSA + ECA ResNet,28,0.4642857142857143,0.5,0.4642857142857143,0.4630952380952381,0.6652606486209801,/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/psa_eca_resnet/psa_eca_resnet_fixed_12ep_20260630_042833/best_model.pth,completed

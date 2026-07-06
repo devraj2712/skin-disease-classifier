@@ -1,0 +1,8 @@
+{
+  "model": "yolov8n-cls",
+  "run_name": "yolov8n_cls_fixed_12ep_20260701_121336",
+  "run_dir": "/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/yolo/yolov8n_cls_fixed_12ep_20260701_121336",
+  "best_model": "/backup/Intern/combine_skindiseaseclassifier_devraj/training_outputs/yolo/yolov8n_cls_fixed_12ep_20260701_121336/weights/best.pt",
+  "test_top1_acc": 0.7977712750434875,
+  "test_top5_acc": 0.9742418527603149
+}

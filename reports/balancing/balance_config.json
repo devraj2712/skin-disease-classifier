@@ -1,0 +1,25 @@
+{
+  "method": "WeightedRandomSampler",
+  "used_for": "train split only",
+  "validation_balanced": false,
+  "test_balanced": false,
+  "augmentation": {
+    "train": [
+      "Resize(256)",
+      "RandomResizedCrop(224, scale=(0.80, 1.00), ratio=(0.90, 1.10))",
+      "RandomHorizontalFlip(p=0.5)",
+      "RandomRotation(10)",
+      "Mild ColorJitter",
+      "Normalize(ImageNet)"
+    ],
+    "val_test": [
+      "Resize(256)",
+      "CenterCrop(224)",
+      "Normalize(ImageNet)"
+    ]
+  },
+  "batch_size": 32,
+  "image_size": 224,
+  "num_classes": 14,
+  "total_train_images": 25576
+}

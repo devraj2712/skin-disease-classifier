@@ -1,0 +1,20 @@
+                            precision    recall  f1-score   support
+
+             acne_vulgaris       0.85      0.87      0.86       370
+         atopic_dermatitis       0.57      0.64      0.60       294
+      basal_cell_carcinoma       0.84      0.93      0.88       910
+        contact_dermatitis       0.90      0.88      0.89       227
+            drug_eruptions       0.56      0.60      0.58       238
+              folliculitis       1.00      1.00      1.00       176
+    fungal_nail_infections       0.91      0.97      0.94       180
+lupus_related_skin_lesions       0.48      0.59      0.53       193
+                  melanoma       0.95      0.82      0.88      1364
+          plaque_psoriasis       0.78      0.66      0.71       502
+     seborrheic_dermatitis       0.99      1.00      0.99       180
+            tinea_corporis       0.59      0.63      0.61       289
+                  vitiligo       0.74      0.78      0.76       251
+                     warts       0.64      0.64      0.64       300
+
+                  accuracy                           0.80      5474
+                 macro avg       0.77      0.79      0.78      5474
+              weighted avg       0.81      0.80      0.80      5474

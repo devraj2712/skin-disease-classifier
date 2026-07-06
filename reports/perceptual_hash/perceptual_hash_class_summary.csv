@@ -1,0 +1,15 @@
+class_name,images_hashed,phash_groups_total,near_duplicate_groups,images_in_near_duplicate_groups,largest_group_size
+acne_vulgaris,2467,2452,14,29,3
+atopic_dermatitis,1965,1949,16,32,2
+basal_cell_carcinoma,6067,3859,2129,4337,14
+contact_dermatitis,1516,1506,9,19,3
+drug_eruptions,1592,1512,77,157,4
+folliculitis,1178,1166,12,24,2
+fungal_nail_infections,1204,1201,3,6,2
+lupus_related_skin_lesions,1286,1273,13,26,2
+melanoma,9095,8946,137,286,7
+plaque_psoriasis,3346,3315,31,62,2
+seborrheic_dermatitis,1199,1188,11,22,2
+tinea_corporis,1932,1880,38,90,5
+vitiligo,1677,1615,61,123,3
+warts,2004,1982,22,44,2

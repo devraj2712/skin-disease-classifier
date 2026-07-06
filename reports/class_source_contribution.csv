@@ -1,0 +1,15 @@
+unified_label,table_label,disease_category,devraj,dermassist,total
+acne_vulgaris,Acne vulgaris,Acne Disorders,59,2408,2467
+atopic_dermatitis,Atopic dermatitis,Eczema / Dermatitis,802,1163,1965
+basal_cell_carcinoma,Basal cell carcinoma,Skin Cancers,418,5649,6067
+contact_dermatitis,Contact dermatitis,Eczema / Dermatitis,1200,316,1516
+drug_eruptions,Drug eruptions,Allergic Skin Conditions,399,1193,1592
+folliculitis,Folliculitis,Bacterial Infections,1178,0,1178
+fungal_nail_infections,Fungal nail infections,Nail Disorders,0,1204,1204
+lupus_related_skin_lesions,Lupus-related skin lesions,Autoimmune Skin Disorders,259,1027,1286
+melanoma,Melanoma,Skin Cancers,974,8121,9095
+plaque_psoriasis,Plaque psoriasis,Psoriasis,1383,1963,3346
+seborrheic_dermatitis,Seborrheic dermatitis,Eczema / Dermatitis,1199,0,1199
+tinea_corporis,Tinea corporis,Fungal Infections,178,1754,1932
+vitiligo,Vitiligo,Pigmentary Disorders,638,1039,1677
+warts,Warts,Viral Skin Diseases,139,1865,2004

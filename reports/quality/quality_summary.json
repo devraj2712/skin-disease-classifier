@@ -1,0 +1,27 @@
+{
+  "dataset_root": "/backup/Intern/combine_skindiseaseclassifier_devraj/data/selected_images",
+  "selection_rule": "Kept classes with >1000 active images and removed Hair & Scalp Disorders.",
+  "total_images_checked": 36528,
+  "total_quarantine_recommended": 0,
+  "total_review_optional": 8361,
+  "issue_counts": {
+    "ok": 28167,
+    "slightly_blurry": 8361
+  },
+  "class_counts": {
+    "acne_vulgaris": 2467,
+    "atopic_dermatitis": 1965,
+    "basal_cell_carcinoma": 6067,
+    "contact_dermatitis": 1516,
+    "drug_eruptions": 1592,
+    "folliculitis": 1178,
+    "fungal_nail_infections": 1204,
+    "lupus_related_skin_lesions": 1286,
+    "melanoma": 9095,
+    "plaque_psoriasis": 3346,
+    "seborrheic_dermatitis": 1199,
+    "tinea_corporis": 1932,
+    "vitiligo": 1677,
+    "warts": 2004
+  }
+}

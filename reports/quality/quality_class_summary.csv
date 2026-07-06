@@ -1,0 +1,15 @@
+class_name,total,ok,slightly_blurry,quarantine_recommended,corrupt_or_unreadable,too_small,blank_or_nearly_blank,extremely_blurry,zero_byte,broken_symlink,missing_file,decode_timeout
+acne_vulgaris,2467,2279,188,0,0,0,0,0,0,0,0,0
+atopic_dermatitis,1965,1899,66,0,0,0,0,0,0,0,0,0
+basal_cell_carcinoma,6067,1715,4352,0,0,0,0,0,0,0,0,0
+contact_dermatitis,1516,1505,11,0,0,0,0,0,0,0,0,0
+drug_eruptions,1592,1574,18,0,0,0,0,0,0,0,0,0
+folliculitis,1178,1051,127,0,0,0,0,0,0,0,0,0
+fungal_nail_infections,1204,1185,19,0,0,0,0,0,0,0,0,0
+lupus_related_skin_lesions,1286,1267,19,0,0,0,0,0,0,0,0,0
+melanoma,9095,5986,3109,0,0,0,0,0,0,0,0,0
+plaque_psoriasis,3346,3144,202,0,0,0,0,0,0,0,0,0
+seborrheic_dermatitis,1199,1176,23,0,0,0,0,0,0,0,0,0
+tinea_corporis,1932,1884,48,0,0,0,0,0,0,0,0,0
+vitiligo,1677,1631,46,0,0,0,0,0,0,0,0,0
+warts,2004,1871,133,0,0,0,0,0,0,0,0,0

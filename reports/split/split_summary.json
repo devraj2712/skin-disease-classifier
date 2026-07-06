@@ -1,0 +1,21 @@
+{
+  "project_root": "/backup/Intern/combine_skindiseaseclassifier_devraj",
+  "input_images_root": "/backup/Intern/combine_skindiseaseclassifier_devraj/data/selected_images",
+  "output_split_root": "/backup/Intern/combine_skindiseaseclassifier_devraj/data/splits",
+  "reports_root": "/backup/Intern/combine_skindiseaseclassifier_devraj/reports/split",
+  "ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "seed": 42,
+  "mode": "symlink",
+  "total_images": 36528,
+  "total_classes": 14,
+  "total_by_split": {
+    "test": 5474,
+    "train": 25576,
+    "val": 5478
+  },
+  "leakage_groups_found": 0
+}

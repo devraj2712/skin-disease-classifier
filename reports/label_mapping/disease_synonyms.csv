@@ -1,0 +1,63 @@
+source_label,normalized_source_label,unified_label,table_label,disease_category,decision,confidence,match_type,source_reference,source_url,note
+Acne,acne,acne_vulgaris,Acne vulgaris,Acne Disorders,review_include,medium,broad_dataset_label,dataset_label,,Broad acne label; review class purity.
+Acne vulgaris,acne vulgaris,acne_vulgaris,Acne vulgaris,Acne Disorders,include,high,exact_or_common_synonym,dataset_label,,
+Alopecia,alopecia,alopecia_areata,Alopecia areata,Hair & Scalp Disorders,review_include,medium,broad_dataset_label,dataset_label,,Broad alopecia label; review for alopecia areata purity.
+Alopecia Areata,alopecia areata,alopecia_areata,Alopecia areata,Hair & Scalp Disorders,include,high,exact_or_common_synonym,dataset_label,,
+Atopic Dermatitis,atopic dermatitis,atopic_dermatitis,Atopic dermatitis,Eczema / Dermatitis,include,high,exact_or_common_synonym,dataset_label,,
+Basal Cell Carcinoma,basal cell carcinoma,basal_cell_carcinoma,Basal cell carcinoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet/ICD/SNOMED,https://dermnetnz.org/topics/basal-cell-carcinoma,
+Basal cell carcinoma of skin,basal cell carcinoma of skin,basal_cell_carcinoma,Basal cell carcinoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet synonym,https://dermnetnz.org/topics/basal-cell-carcinoma,
+BCC,bcc,basal_cell_carcinoma,Basal cell carcinoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet/ISIC abbreviation,https://dermnetnz.org/topics/basal-cell-carcinoma | https://challenge.isic-archive.com/data/,
+Basalioma,basalioma,basal_cell_carcinoma,Basal cell carcinoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet synonym,https://dermnetnz.org/topics/basal-cell-carcinoma,
+Rodent ulcer,rodent ulcer,basal_cell_carcinoma,Basal cell carcinoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet synonym,https://dermnetnz.org/topics/basal-cell-carcinoma,
+Candidiasis,candidiasis,candidiasis,Candidiasis,Fungal Infections,include,high,exact_or_common_synonym,dataset_label,,
+Candidiasis oral,candidiasis oral,candidiasis,Candidiasis,Fungal Infections,review_include,medium,subtype_or_site_label,dataset_label,,Oral candidiasis; review if target should be general skin candidiasis.
+Cellulitis,cellulitis,cellulitis,Cellulitis,Bacterial Infections,include,high,exact_or_common_synonym,dataset_label,,
+Contact Dermatitis,contact dermatitis,contact_dermatitis,Contact dermatitis,Eczema / Dermatitis,include,high,exact_or_common_synonym,dataset_label,,
+Drug Eruption,drug eruption,drug_eruptions,Drug eruptions,Allergic Skin Conditions,include,high,exact_or_common_synonym,dataset_label,,
+DrugEruption,drugeruption,drug_eruptions,Drug eruptions,Allergic Skin Conditions,include,high,exact_or_common_synonym,dataset_label,,
+Folliculitis,folliculitis,folliculitis,Folliculitis,Bacterial Infections,include,high,exact_or_common_synonym,dataset_label,,
+Fungal nail infection,fungal nail infection,fungal_nail_infections,Fungal nail infections,Nail Disorders,include,high,exact_or_common_synonym,dataset_label,,
+Fungal nail infections,fungal nail infections,fungal_nail_infections,Fungal nail infections,Nail Disorders,include,high,exact_or_common_synonym,dataset_label,,
+Nail Fungus,nail fungus,fungal_nail_infections,Fungal nail infections,Nail Disorders,include,high,exact_or_common_synonym,dataset_label,,
+Onychomycosis,onychomycosis,fungal_nail_infections,Fungal nail infections,Nail Disorders,include,high,exact_or_common_synonym,dataset_label,,
+Herpes Simplex,herpes simplex,herpes_simplex,Herpes simplex,Viral Skin Diseases,include,high,exact_or_common_synonym,dataset_label,,
+Shingles,shingles,herpes_zoster,Herpes zoster,Viral Skin Diseases,include,high,exact_or_common_synonym,dataset_label,,
+Herpes zoster,herpes zoster,herpes_zoster,Herpes zoster,Viral Skin Diseases,include,high,exact_or_common_synonym,dataset_label,,
+Impetigo,impetigo,impetigo,Impetigo,Bacterial Infections,include,high,exact_or_common_synonym,dataset_label,,
+Lupus Cutaneous,lupus cutaneous,lupus_related_skin_lesions,Lupus-related skin lesions,Autoimmune Skin Disorders,review_include,medium,broad_dataset_label,dataset_label,,Cutaneous lupus mapped to lupus-related skin lesions.
+Lupus,lupus,lupus_related_skin_lesions,Lupus-related skin lesions,Autoimmune Skin Disorders,review_include,medium,broad_dataset_label,dataset_label,,Broad lupus folder; review purity.
+Lupus Erythematosus Chronicus Discoides,lupus erythematosus chronicus discoides,lupus_related_skin_lesions,Lupus-related skin lesions,Autoimmune Skin Disorders,include,high,exact_or_common_synonym,dataset_label,,
+discoid-lupus,discoid lupus,lupus_related_skin_lesions,Lupus-related skin lesions,Autoimmune Skin Disorders,include,high,exact_or_common_synonym,dataset_label,,
+Malignant melanoma,malignant melanoma,melanoma,Melanoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet synonym,https://dermnetnz.org/topics/melanoma,
+Cutaneous melanoma,cutaneous melanoma,melanoma,Melanoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet synonym,https://dermnetnz.org/topics/melanoma,
+Melanoma,melanoma,melanoma,Melanoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet/ICD/SNOMED,https://dermnetnz.org/topics/melanoma,
+MEL,mel,melanoma,Melanoma,Skin Cancers,include,high,exact_or_common_synonym,ISIC abbreviation,https://challenge.isic-archive.com/data/,
+Superficial spreading melanoma,superficial spreading melanoma,melanoma,Melanoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet subtype example,https://dermnetnz.org/topics/melanoma,
+Nodular melanoma,nodular melanoma,melanoma,Melanoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet subtype example,https://dermnetnz.org/topics/melanoma,
+Acral lentiginous melanoma,acral lentiginous melanoma,melanoma,Melanoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet subtype example,https://dermnetnz.org/topics/melanoma,
+Molluscum Contagiosum,molluscum contagiosum,molluscum_contagiosum,Molluscum contagiosum,Viral Skin Diseases,include,high,exact_or_common_synonym,dataset_label,,
+Psoriasis,psoriasis,plaque_psoriasis,Plaque psoriasis,Psoriasis,review_include,medium,broad_dataset_label,dataset_label,,General psoriasis label mapped to plaque psoriasis; review recommended.
+Plaque psoriasis,plaque psoriasis,plaque_psoriasis,Plaque psoriasis,Psoriasis,include,high,exact_or_common_synonym,dataset_label,,
+Scabies Bites,scabies bites,scabies_infestation,Scabies infestation,Scabies & Parasitic Diseases,review_include,medium,related_dataset_label,dataset_label,,Dataset label mapped to scabies infestation.
+Scabies infestation,scabies infestation,scabies_infestation,Scabies infestation,Scabies & Parasitic Diseases,include,high,exact_or_common_synonym,dataset_label,,
+Seborrheic Dermatitis,seborrheic dermatitis,seborrheic_dermatitis,Seborrheic dermatitis,Eczema / Dermatitis,include,high,exact_or_common_synonym,dataset_label,,
+Seborrhoeic dermatitis,seborrhoeic dermatitis,seborrheic_dermatitis,Seborrheic dermatitis,Eczema / Dermatitis,include,high,exact_or_common_synonym,dataset_label,,
+Squamous Cell Carcinoma,squamous cell carcinoma,squamous_cell_carcinoma,Squamous cell carcinoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet/ICD/SNOMED,https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma,
+SCC of the skin,scc of the skin,squamous_cell_carcinoma,Squamous cell carcinoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet synonym,https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma,
+Primary cutaneous SCC,primary cutaneous scc,squamous_cell_carcinoma,Squamous cell carcinoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet synonym,https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma,
+SCC,scc,squamous_cell_carcinoma,Squamous cell carcinoma,Skin Cancers,include,high,exact_or_common_synonym,DermNet/ISIC abbreviation,https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma | https://challenge.isic-archive.com/data/,
+Tinea Corporis,tinea corporis,tinea_corporis,Tinea corporis,Fungal Infections,include,high,exact_or_common_synonym,dataset_label,,
+Tinea Ringworm,tinea ringworm,tinea_corporis,Tinea corporis,Fungal Infections,review_include,medium,broad_dataset_label,dataset_label,,Broad ringworm/tinea label mapped to tinea corporis; review recommended.
+Tinea,tinea,tinea_corporis,Tinea corporis,Fungal Infections,review_include,medium,broad_dataset_label,dataset_label,,Broad tinea folder; review recommended.
+Urticaria,urticaria,urticaria,Urticaria,Allergic Skin Conditions,include,high,exact_or_common_synonym,dataset_label,,
+Hives,hives,urticaria,Urticaria,Allergic Skin Conditions,include,high,exact_or_common_synonym,dataset_label,,
+Verruca,verruca,warts,Warts,Viral Skin Diseases,include,high,exact_or_common_synonym,dataset_label,,
+Warts,warts,warts,Warts,Viral Skin Diseases,include,high,exact_or_common_synonym,dataset_label,,
+Vitiligo,vitiligo,vitiligo,Vitiligo,Pigmentary Disorders,include,high,exact_or_common_synonym,dataset_label,,
+Eczema,eczema,atopic_dermatitis,Atopic dermatitis,Eczema / Dermatitis,exclude,high,reject_or_too_broad,dataset_label,,Too broad; not automatically mapped to atopic dermatitis.
+Herpes HPV,herpes hpv,herpes_simplex,Herpes simplex,Viral Skin Diseases,exclude,high,reject_or_too_broad,dataset_label,,Mixed/broad label; may include HPV/warts and herpes.
+SkinCancer,skincancer,melanoma,Melanoma,Skin Cancers,exclude,high,reject_or_too_broad,dataset_label,,"Too broad; can mix melanoma, BCC, SCC, and other cancers."
+Melanocytic Nevus,melanocytic nevus,melanoma,Melanoma,Skin Cancers,exclude,high,reject_or_too_broad,dataset_label,,Benign nevus; not melanoma.
+Seborrheic Keratosis,seborrheic keratosis,seborrheic_dermatitis,Seborrheic dermatitis,Eczema / Dermatitis,exclude,high,reject_or_too_broad,dataset_label,,Different condition from seborrheic dermatitis.
+Seborrh_Keratoses,seborrh keratoses,seborrheic_dermatitis,Seborrheic dermatitis,Eczema / Dermatitis,exclude,high,reject_or_too_broad,dataset_label,,Different condition from seborrheic dermatitis.
+Tinea Ringworm Candidiasis,tinea ringworm candidiasis,tinea_corporis,Tinea corporis,Fungal Infections,exclude,high,reject_or_too_broad,dataset_label,,Mixed tinea/candidiasis label; not used for new automatic mapping.

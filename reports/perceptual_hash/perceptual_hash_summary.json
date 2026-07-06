@@ -1,0 +1,11 @@
+{
+  "images_root": "/backup/Intern/combine_skindiseaseclassifier_devraj/data/selected_images",
+  "selection_rule": "Kept classes with >1000 active images and removed Hair & Scalp Disorders.",
+  "images_hashed": 36528,
+  "hash_errors": 0,
+  "dhash_threshold": 2,
+  "phash_threshold": 6,
+  "total_near_duplicate_groups": 2573,
+  "total_images_in_near_duplicate_groups": 5257,
+  "largest_group_size": 14
+}

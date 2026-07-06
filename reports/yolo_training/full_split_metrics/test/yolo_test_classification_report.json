@@ -1,0 +1,99 @@
+{
+  "acne_vulgaris": {
+    "precision": 0.8469656992084432,
+    "recall": 0.8675675675675676,
+    "f1-score": 0.8571428571428571,
+    "support": 370.0
+  },
+  "atopic_dermatitis": {
+    "precision": 0.5683890577507599,
+    "recall": 0.6360544217687075,
+    "f1-score": 0.6003210272873194,
+    "support": 294.0
+  },
+  "basal_cell_carcinoma": {
+    "precision": 0.8356299212598425,
+    "recall": 0.932967032967033,
+    "f1-score": 0.881619937694704,
+    "support": 910.0
+  },
+  "contact_dermatitis": {
+    "precision": 0.8963963963963963,
+    "recall": 0.8766519823788547,
+    "f1-score": 0.8864142538975501,
+    "support": 227.0
+  },
+  "drug_eruptions": {
+    "precision": 0.55859375,
+    "recall": 0.6008403361344538,
+    "f1-score": 0.5789473684210527,
+    "support": 238.0
+  },
+  "folliculitis": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 176.0
+  },
+  "fungal_nail_infections": {
+    "precision": 0.9114583333333334,
+    "recall": 0.9722222222222222,
+    "f1-score": 0.9408602150537635,
+    "support": 180.0
+  },
+  "lupus_related_skin_lesions": {
+    "precision": 0.4829059829059829,
+    "recall": 0.5854922279792746,
+    "f1-score": 0.5292740046838408,
+    "support": 193.0
+  },
+  "melanoma": {
+    "precision": 0.9461732548359967,
+    "recall": 0.8247800586510264,
+    "f1-score": 0.881316098707403,
+    "support": 1364.0
+  },
+  "plaque_psoriasis": {
+    "precision": 0.7769953051643192,
+    "recall": 0.6593625498007968,
+    "f1-score": 0.7133620689655172,
+    "support": 502.0
+  },
+  "seborrheic_dermatitis": {
+    "precision": 0.989010989010989,
+    "recall": 1.0,
+    "f1-score": 0.994475138121547,
+    "support": 180.0
+  },
+  "tinea_corporis": {
+    "precision": 0.5852090032154341,
+    "recall": 0.629757785467128,
+    "f1-score": 0.6066666666666667,
+    "support": 289.0
+  },
+  "vitiligo": {
+    "precision": 0.7414448669201521,
+    "recall": 0.7768924302788844,
+    "f1-score": 0.7587548638132295,
+    "support": 251.0
+  },
+  "warts": {
+    "precision": 0.6387959866220736,
+    "recall": 0.6366666666666667,
+    "f1-score": 0.6377295492487479,
+    "support": 300.0
+  },
+  "accuracy": 0.7977712824260139,
+  "macro avg": {
+    "precision": 0.7698548961874089,
+    "recall": 0.7856610915630439,
+    "f1-score": 0.7762060035502999,
+    "support": 5474.0
+  },
+  "weighted avg": {
+    "precision": 0.8067443130322887,
+    "recall": 0.7977712824260139,
+    "f1-score": 0.7999165249868471,
+    "support": 5474.0
+  }
+}
