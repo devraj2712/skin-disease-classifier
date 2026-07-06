@@ -1,4 +1,4 @@
-# Skin Disease Classifier
+# DermaVision AI: Skin Disease Image Classification using Deep Learning
 
 This project builds and evaluates a multi-class skin disease image classifier 
 
