@@ -1,6 +1,6 @@
-# Combined Skin Disease Classifier
+# Skin Disease Classifier
 
-This project builds and evaluates a multi-class skin disease image classifier using a combined dataset from the Devraj and DermAssist folders.
+This project builds and evaluates a multi-class skin disease image classifier 
 
 Project root:
 
@@ -110,9 +110,7 @@ markdown_reports/split_summary.md
 
 ## Data Preparation Workflow
 
-### 1. Dataset Combination
 
-Images were combined from the Devraj and DermAssist sources for selected skin disease classes.
 
 Important reports:
 
@@ -124,7 +122,7 @@ reports/label_mapping/all_source_labels_report.csv
 reports/label_mapping/disease_synonyms.csv
 ```
 
-### 2. Label Mapping
+### 1. Label Mapping
 
 Disease labels were normalized using a synonym mapping workflow. This helps map labels such as clinical/scientific variants into a consistent class folder.
 
@@ -134,7 +132,7 @@ Example:
 Basal Cell Carcinoma -> basal_cell_carcinoma
 ```
 
-### 3. Quality Cleaning
+### 2. Quality Cleaning
 
 Corrupt, unreadable, zero-byte, too-small, and extreme-quality-problem images were removed before final training.
 
@@ -151,7 +149,7 @@ Quarantine folder:
 data/quarantine_quality
 ```
 
-### 4. Duplicate And Leakage Control
+### 3. Duplicate And Leakage Control
 
 Perceptual hashing was used to group visually similar images before splitting.
 
@@ -171,7 +169,7 @@ reports/perceptual_hash/perceptual_hash_manifest.csv
 reports/split/leakage_check.csv
 ```
 
-### 5. Stratified Group Split
+### 4. Stratified Group Split
 
 The dataset was split using:
 
